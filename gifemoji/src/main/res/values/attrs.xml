@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="EmoticonTextView">
+        <attr name="emoticonSize" format="dimension" />
+        <attr name="emoticonSchedule" format="integer" />
+    </declare-styleable>
+
+</resources>
